@@ -1,33 +1,39 @@
 <div width="100%">
-    <img src="https://github.com/diegoseg15/hogar-santa-marianita-diseno1/blob/main/src/assets/images/Captura-Presentaci%C3%B3n.png?raw=true" alt="presentación de la página del hogar santa marianita" />
+  <img src="https://raw.githubusercontent.com/Haani127/Orange_Home/main/src/assets/images/home.png" alt="Orange Home website preview" />
 </div>
 
-# Hogar Santa Marianita V1
+# Orange Home
 
-## Descripción
+## Description
 
-Este repositorio contiene el código fuente de la página web del Hogar Santa Marianita, un centro de acogimiento temporal para niños vulnerados. Desarrollado en React y Tailwind, el sitio proporciona información sobre el hogar y permite realizar donaciones.
+This repository contains the source code for **Orange Home**, a web application developed to present information about a community support initiative and enable users to explore pages such as Home, About, Blog, Contact, and Donations.  
+The project is built using **React** and **Tailwind CSS**, focusing on responsive design and smooth navigation.
 
-## Contenido
+## Live Demo
 
-- **src:** Carpeta que contiene los archivos fuente del proyecto React.
-- **public:** Carpeta que almacena archivos públicos, como imágenes y otros recursos.
-- **styles:** Estilos y configuraciones de Tailwind.
+🔗 https://haani127.github.io/Orange_Home/
 
-## Funcionalidades
+## Project Structure
 
-- Información detallada sobre el Hogar Santa Marianita.
-- Formulario de donación para contribuir al cuidado de los niños.
-- Navegación intuitiva y diseño atractivo.
+- **src/** – Contains all React components, pages, and routing logic  
+- **public/** – Public assets and static files  
+- **styles/** – Tailwind CSS configuration and custom styles  
 
-## Requisitos
+## Features
 
-- Node.js
-- NPM
+- Multi-page navigation using React Router  
+- Responsive UI built with Tailwind CSS  
+- Donation form interface  
+- Clean and modern layout  
+- Deployed using GitHub Pages  
 
-## Instrucciones de Uso
+## Requirements
 
-1. Clona este repositorio: `git clone [URL]`
-2. Ingresa a la carpeta del proyecto: `cd HogarSantaMarianitaV1`
-3. Instala las dependencias: `npm install`
-4. Inicia la aplicación: `npm start`
+- Node.js  
+- npm  
+
+## Installation & Usage
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/Haani127/Orange_Home.git
