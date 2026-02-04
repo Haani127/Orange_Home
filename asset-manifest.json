@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Orange_Home/static/css/main.e2e12a0e.css",
+    "main.js": "/Orange_Home/static/js/main.ea870ffe.js",
+    "static/js/787.31ecf475.chunk.js": "/Orange_Home/static/js/787.31ecf475.chunk.js",
+    "static/media/piano2.jpg": "/Orange_Home/static/media/piano2.8b02e9d8ccdddbba0d71.jpg",
+    "static/media/SalaDeJuegos.jpg": "/Orange_Home/static/media/SalaDeJuegos.eea495d3d555b4053575.jpg",
+    "static/media/IMG20230405094444.jpg": "/Orange_Home/static/media/IMG20230405094444.8095d25c180407e4f103.jpg",
+    "static/media/NinosResando.jpg": "/Orange_Home/static/media/NinosResando.524b9c3f82f707626d4b.jpg",
+    "static/media/NinosAula.jpg": "/Orange_Home/static/media/NinosAula.d516212d9802e403ffdf.jpg",
+    "static/media/voluntarios.jpg": "/Orange_Home/static/media/voluntarios.c0cfea40a4f025629f1f.jpg",
+    "static/media/fachada.jpg": "/Orange_Home/static/media/fachada.6d729a61df3128b5b61e.jpg",
+    "static/media/pexels-adailton-batista-1580507-640x360-30fps.mp4": "/Orange_Home/static/media/pexels-adailton-batista-1580507-640x360-30fps.4f7e67e2c6d0553eb8ee.mp4",
+    "static/media/cuadroNinos.jpg": "/Orange_Home/static/media/cuadroNinos.283d64ce0bb0e9f2359c.jpg",
+    "static/media/piano1.jpg": "/Orange_Home/static/media/piano1.990be71e6f739d3c59a3.jpg",
+    "static/media/NinoTriste.jpg": "/Orange_Home/static/media/NinoTriste.e5d6138a07af32d102f2.jpg",
+    "static/media/196519402_516271549803800__n.jpg": "/Orange_Home/static/media/196519402_516271549803800_8454612399907073598_n.d52f926522f32a878518.jpg",
+    "static/media/FamiliaDibujo.jpeg": "/Orange_Home/static/media/FamiliaDibujo.4d313b4bf6a0bce65870.jpeg",
+    "static/media/logo.png": "/Orange_Home/static/media/logo.26c54607b41599f563c1.png",
+    "static/media/NinosColumpio.jpg": "/Orange_Home/static/media/NinosColumpio.65b9a1a3502e1c7ec2ec.jpg",
+    "static/media/logo_diocesis-ambato.png": "/Orange_Home/static/media/logo_diocesis-ambato.b2d27ec88689434e6eda.png",
+    "index.html": "/Orange_Home/index.html",
+    "main.e2e12a0e.css.map": "/Orange_Home/static/css/main.e2e12a0e.css.map",
+    "main.ea870ffe.js.map": "/Orange_Home/static/js/main.ea870ffe.js.map",
+    "787.31ecf475.chunk.js.map": "/Orange_Home/static/js/787.31ecf475.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2e12a0e.css",
+    "static/js/main.ea870ffe.js"
+  ]
+}
